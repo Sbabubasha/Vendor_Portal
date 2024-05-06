@@ -277,7 +277,5 @@ Welcome to the Vendor Management System with Performance Metrics! This system is
 
 
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
